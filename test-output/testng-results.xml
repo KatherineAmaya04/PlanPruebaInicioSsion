@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-19T18:39:27 CST" name="Default suite" finished-at="2023-11-19T18:39:31 CST" duration-ms="4074">
+    <groups>
+    </groups>
+    <test started-at="2023-11-19T18:39:27 CST" name="Default test" finished-at="2023-11-19T18:39:31 CST" duration-ms="4074">
+      <class name="guru99Aplication.TestLogin">
+        <test-method signature="invocarNavegador()[pri:-100, instance:guru99Aplication.TestLogin@bef2d72]" started-at="2023-11-19T18:39:27 CST" name="invocarNavegador" finished-at="2023-11-19T18:39:31 CST" duration-ms="3567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invocarNavegador -->
+        <test-method signature="verificarLoginAseisNew()[pri:1, instance:guru99Aplication.TestLogin@bef2d72]" started-at="2023-11-19T18:39:31 CST" name="verificarLoginAseisNew" finished-at="2023-11-19T18:39:31 CST" duration-ms="457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarLoginAseisNew -->
+      </class> <!-- guru99Aplication.TestLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
